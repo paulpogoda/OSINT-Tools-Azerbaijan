@@ -3,7 +3,7 @@
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Azerbaijan. Most of resources and tools has versions in Azerbaijan, English and Russian but Eng and Ru could be incomplete.
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
